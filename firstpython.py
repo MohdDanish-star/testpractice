@@ -1,9 +1,6 @@
-print('Hellow")
-      print('Hellow')
+# adding some lines of the codes.
 
-      
-      # I don't know what to do with the Github
-      
-      
+print("Hellow")
+
       
 
